@@ -1,5 +1,5 @@
 import { useState } from "react";
-import SearchForm from "./SearchForm";
+import SearchForm from "../searchForm/SearchForm";
 import "./header.css"
 
 
