@@ -1,0 +1,28 @@
+.container {
+  background: url('/src/img/kung-fu-panda-the-paws-of-destiny.jpg') no-repeat center/cover;
+  padding: 30px 35px;
+  color: white;
+  border-radius: 10px;
+  height: 450px;
+}
+
+.city h1 {
+  text-align: center;
+  font-size: 45px;
+  text-shadow: 0 0 10px black;
+}
+
+.short-desc {
+  margin-top: 50px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-around;
+}
+
+.short-desc-detail {
+  display: flex;
+  justify-content: center;
+}
+
+
+

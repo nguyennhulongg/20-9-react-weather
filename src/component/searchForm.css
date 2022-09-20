@@ -1,0 +1,22 @@
+.search-form {
+  padding: 10px 24px;
+  background-color: white;
+  opacity: 80%;
+  border-radius: 0 20px 0 20px;
+  margin-bottom: 30px;
+}
+
+.search-form input {
+  width: 260px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+}
+
+.temperature {
+  text-align: center;
+  padding: 5px;
+  border-radius: 20px;
+  font-size: 30px;
+  text-shadow: 0 0 10px black;
+}
